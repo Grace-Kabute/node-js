@@ -1,0 +1,25 @@
+{
+    "name": "nodejs",
+    "version": "1.0.0",
+    "description": "node js crash course",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Grace-Kabute/node-js.git"
+    },
+    "author": "Kabute Grace",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Grace-Kabute/node-js/issues"
+    },
+    "homepage": "https://github.com/Grace-Kabute/node-js#readme",
+    "dependencies": {
+        "uuid": "^9.0.0"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.20"
+    }
+}
